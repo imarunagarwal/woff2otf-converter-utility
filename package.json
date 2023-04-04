@@ -1,0 +1,15 @@
+{
+  "name": "fonts-converter",
+  "version": "1.0.0",
+  "description": "POC to convert the font file format",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arun",
+  "license": "MIT",
+  "dependencies": {
+    "woff2otf": "^1.0.0"
+  }
+}
